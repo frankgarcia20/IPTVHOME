@@ -1,25 +1,12 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pe.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
 
-#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Nacionales", America TV
+#EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="Nacionales", America TV
 http://179.63.6.12:9000/play/a007
 
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
+#EXTINF:-1 tvg-id="ATV.(ATV).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
 http://179.63.6.12:9000/play/a02q
 
 
-#EXTINF:-1,Claro Sports 1 HD
-http://190.61.116.155:7000/play/a029
-#EXTINF:-1,Claro Sports 2 CA HD
-http://190.61.116.155:7000/play/a005
-#EXTINF:-1,Claro Sports 2 HD
-http://190.61.116.155:7000/play/a02a
-#EXTINF:-1,F HD
-https://doc1.crackstreamslivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=38.250.150.63&token=40dc2963b32c40fa3d3ca736f771fb0dddcb2ca4-ab-1765156825-1765102825
-
-#EXTINF:-1,F1 GP
-https://14c51.crackstreamslivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=38.250.150.63&token=f6ca6ab13fd03ed0139a57f856c5085ad5e88b05-4a-1765156813-1765102813
-#EXTINF:-1,f1 2
-http://191.52.214.5:8000/play/a06p/index.m3u8
 #EXTINF:-1,DEPORTES TVC HD
 http://190.61.116.155:7000/play/a09t
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes",DSPORTS
