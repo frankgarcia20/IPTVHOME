@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv>
+  <channel id="CANAL.TEST">
+    <display-name>Canal de Prueba</display-name>
+  </channel>
+
+  <programme start="20251216000000 -0500" stop="20251216235900 -0500" channel="CANAL.TEST">
+    <title lang="es">PROBANDO EPG FRANK</title>
+    <desc lang="es">Si puedes leer esto, Televizo funciona correctamente.</desc>
+  </programme>
+</tv>
