@@ -1,10 +1,11 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
 
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="PERU",America TV
+#EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Nacionales", America TV
 http://179.63.6.12:9000/play/a007
 
-#EXTINF:-1 tvg-id="ATV.(ATV).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="PERU",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
 http://179.63.6.12:9000/play/a02q
+
 
 #EXTINF:-1,Claro Sports 1 HD
 http://190.61.116.155:7000/play/a029
