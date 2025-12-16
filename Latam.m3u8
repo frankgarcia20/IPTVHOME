@@ -1,0 +1,118 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERU",AmericaTV
+http://181.176.155.7:8090/play/a1ku/index.m3u8#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERU",AmericaTV 2 HD
+http://191.52.214.5:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="PE",ATV
+200.60.124.20:29000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_ZxUnopPpN9XXpCMhpq8ocEKpTtFCEgxiQ&s" group-title="Internacionales", Caracol
+http://160.20.165.246:8000/play/a00h/index.m3u8
+#EXTINF:-1,Claro Sports 1 HD
+http://190.61.116.155:7000/play/a029
+#EXTINF:-1,Claro Sports 2 CA HD
+http://190.61.116.155:7000/play/a005
+#EXTINF:-1,Claro Sports 2 HD
+http://190.61.116.155:7000/play/a02a
+#EXTINF:-1,F HD
+https://doc1.crackstreamslivehd.com/fox1ar/tracks-v1a1/mono.m3u8?ip=38.250.150.63&token=40dc2963b32c40fa3d3ca736f771fb0dddcb2ca4-ab-1765156825-1765102825
+
+#EXTINF:-1,F1 GP
+https://14c51.crackstreamslivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=38.250.150.63&token=f6ca6ab13fd03ed0139a57f856c5085ad5e88b05-4a-1765156813-1765102813
+#EXTINF:-1,f1 2
+http://191.52.214.5:8000/play/a06p/index.m3u8
+#EXTINF:-1,DEPORTES TVC HD
+http://190.61.116.155:7000/play/a09t
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes",DSPORTS
+http://179.63.6.17:9000/play/a08e
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes",DSPORTS HD
+http://38.211.242.128:8001/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png" group-title="Deportes",DSPORTS+
+http://38.211.242.128:8001/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 2
+http://38.211.242.128:8001/play/a05g/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
+http://189.50.210.3:8008/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ESPN_Premium_%282022%29.svg" group-title="Deportes",ESPN Premium HD
+https://57b1.crackstreamslivehd.com/disney6/index.m3u8?token=eab18317b7b842d3fdc0b426e5738401f8a5eba9-a3-1758288545-1758234545&ip=38.250.150.56
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD
+http://189.50.210.3:8008/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD 2
+http://189.50.210.3:8008/play/a07d/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg" group-title="Deportes",ESPN 3 HD
+http://189.50.210.3:8008/play/a04b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg" group-title="Deportes",ESPN 4 HD
+http://189.50.210.3:8008/play/a04a/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg" group-title="Deportes",ESPN 5 HD
+http://189.50.210.3:8008/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg" group-title="Deportes",ESPN 5  HD 2
+http://189.50.210.3:8008/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
+http://189.50.210.3:8008/play/a03z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD 2
+http://189.50.210.3:8008/play/a04c/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/ESPN_7.svg" group-title="Deportes",ESPN 7 HD
+http://189.50.210.3:8008/play/a05v/index.m3u8
+
+
+#EXTINF:-1,ESPN HD (PE)
+http://179.51.161.253:9009/play/a0ag/index.m3u8
+#EXTINF:-1,ESPN (1PE) 
+http://190.119.40.74:8200/play/a0yd
+#EXTINF:-1,ESPN 2 HD (PE)
+http://45.173.75.4:2061/play/a06l
+#EXTINF:-1,ESPN 3 HD (PE)
+http://209.45.81.84:8000/play/a01b
+#EXTINF:-1,ESPN 4 HD (PE)
+http://45.173.72.26:2072/play/a0bx
+#EXTINF:-1,ESPN 5 HD (PE) 
+http://181.65.207.51:8000/play/a016
+#EXTINF:-1,ESPN 6 HD (PE)
+http://200.39.57.254:8008/play/a07k/index.m3u8
+#EXTINF:-1,ESPN 7 HD (PE) ==> FOUND ON SEARCHTV.NET
+http://187.102.211.200:48001/play/a0b0
+#EXTINF:-1,ESPN 7 - 2 HD (PE) ==> FOUND ON SEARCHTV.NET
+http://45.182.21.33:8891/play/a002/index.m3u8
+#EXTINF:-1,Chile Vision
+http://45.239.31.254:8000/play/a010/index.m3u8
+
+
+
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://189.50.210.3:8008/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://189.50.210.3:8008/play/a07q/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://189.50.210.3:8008/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
+http://143.0.67.77:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
+http://143.0.67.77:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
+http://143.0.67.77:8000/play/a02t/index.m3u8
+#EXTINF:-1,GOLPERU
+http://191.52.214.5:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/l1-logo-png_seeklogo-519696.png" group-title="Deportes",L1MAX HD
+http://200.60.124.20:29000/play/a07k/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://191.52.214.5:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="PE",Latina
+200.60.124.20:29000/play/a04q/index.m3u8
+#EXTINF:-1,Latina HD
+http://191.52.214.5:8000/play/a08y/index.m3u8
+#EXTINF:-1,LA LIGA VIX (PX SPORT)
+http://190.61.116.155:7000/play/a096
+#EXTINF:-1 group-title="PE",Panamericana TV
+200.60.124.20:29000/play/a04s/index.m3u8
+#EXTINF:-1,TODO DEPORTES HD
+http://190.61.116.155:7000/play/a0b0
+#EXTINF:-1,TUDN HD
+http://190.61.116.155:7000/play/a0b9
+#EXTINF:-1,TUDN 2 HD
+https://14c51.crackstreamslivehd.com/tudn_usa/tracks-v1a1/mono.m3u8?ip=38.250.150.63&token=6a0a8b388171fc357b81ced19a7781befbf5fd91-c1-1753793869-1753739869
+#EXTINF:-1,Tigo Sports HD
+https://manolo.crackstreamslivehd.com/sporttvbr1/tracks-v1a1/mono.m3u8?ip=38.250.150.48&token=d0f536d58e01708f272a2289132d5c46b0f6dc6c-f6-1753879331-1753825331
+
