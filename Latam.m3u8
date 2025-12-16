@@ -18,6 +18,8 @@ http://179.63.6.12:9000/play/a00f
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Cartoon_Network_HD_-_2010.svg" group-title="Nacionales", CARTOON NETWORK HD
 http://161.132.112.34:9000/play/a081
 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Disney_Channel_%282010%29.svg" group-title="Nacionales", DISNEY HD
+http://190.108.89.228:8000/play/a0dt/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
@@ -46,19 +48,6 @@ http://38.43.132.201:8000/play/a0cz/index.m3u8
 
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
 http://138.204.12.14:40000/play/a0al/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg" group-title="Deportes",ESPN 4 HD
-http://161.132.112.34:9000/play/a02h
-
-#EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg" group-title="Deportes",ESPN 5 HD
-http://191.97.61.32:8000/play/a08y/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
-http://200.39.57.254:8008/play/a07k/index.m3u8
-
-
 
 
 
