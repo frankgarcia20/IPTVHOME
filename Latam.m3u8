@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pe.xml"
 
 #EXTINF:-1 tvg-id="AmericaTV.pe" tvg-logo="https://i.imgur.com/5j8Jupe.jpeg" group-title="Nacionales", America TV
 http://179.63.6.12:9000/play/a007
