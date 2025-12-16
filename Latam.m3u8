@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/MftX69vRP3.xml"
 
-#EXTINF:-1 tvg-id="AMERICA TV.pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="Nacionales", America TV
+#EXTINF:-1 tvg-id="Peru 2114AMERICA TELEVISION HD.pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="Nacionales", America TV
 http://179.63.6.12:9000/play/a007
 
-#EXTINF:-1 tvg-id="ATV SUR.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
+#EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
 http://179.63.6.12:9000/play/a02q
