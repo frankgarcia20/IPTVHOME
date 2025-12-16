@@ -1,7 +1,44 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/peru2.xml"
 
-#EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="Nacionales", America TV
+#EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
 http://179.63.6.12:9000/play/a007
 
-#EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV
+#EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV HD
 http://179.63.6.12:9000/play/a02q
+
+#EXTINF:-1 tvg-id="LATINA HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg" group-title="Nacionales", LATINA HD
+http://179.63.6.12:9000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes",DSPORTS
+http://179.63.6.17:9000/play/a08e
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes",DSPORTS HD
+http://38.211.242.128:8001/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png" group-title="Deportes",DSPORTS+
+http://38.211.242.128:8001/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Deportes", DSPORTS 2
+http://38.211.242.128:8001/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
+http://179.51.161.253:9009/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD
+http://45.173.75.4:2061/play/a06l
+
+#EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg" group-title="Deportes",ESPN 3 HD
+http://209.45.81.84:8000/play/a01b
+
+#EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg" group-title="Deportes",ESPN 4 HD
+http://161.132.112.34:9000/play/a02h
+
+#EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg" group-title="Deportes",ESPN 5 HD
+http://191.97.61.32:8000/play/a08y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
+http://200.39.57.254:8008/play/a07k/index.m3u8
+
+
+
+
+
+
+
