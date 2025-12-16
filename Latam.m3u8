@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="TU_LINK_RAW_DE_GUIA_TEST.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/frankgarcia20/IPTVHOME/refs/heads/main/debug_epg.xml"
 
 #EXTINF:-1 tvg-id="CANAL.TEST" tvg-logo="https://i.imgur.com/Jo3Yp8u.png", CANAL DE PRUEBA
 http://179.63.6.12:9000/play/a007
