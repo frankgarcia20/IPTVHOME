@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://www.open-epg.com/files/peru2.xml"
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://i.imgur.com/Jo3Yp8u.png" group-title="Nacionales", America TV
 http://179.63.6.12:9000/play/a007
