@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERU",AmericaTV
 http://181.176.155.7:8090/play/a1ku/index.m3u8#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERU",AmericaTV 2 HD
-http://191.52.214.5:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="PE",ATV
-200.60.124.20:29000/play/a04t/index.m3u8
+http://179.63.6.12:9000/play/a007
+#EXTINF:-1 group-title="PERU",ATV
+http://179.63.6.12:9000/play/a02q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh_ZxUnopPpN9XXpCMhpq8ocEKpTtFCEgxiQ&s" group-title="Internacionales", Caracol
 http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:-1,Claro Sports 1 HD
