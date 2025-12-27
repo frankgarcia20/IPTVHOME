@@ -6,9 +6,6 @@ http://179.63.6.12:9000/play/a00f
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
 http://179.63.6.12:9000/play/a007
 
-#EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD 2
-161.132.68.202:8000/play/AMERICA
-
 #EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV HD
 http://179.63.6.12:9000/play/a02q
 
