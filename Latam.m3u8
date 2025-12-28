@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/peru3.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/peru3.xml"
 
 #EXTINF:-1 tvg-id="LATINA HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg" group-title="Nacionales", LATINA HD
 http://179.63.6.12:9000/play/a00f
@@ -12,18 +12,17 @@ http://179.63.6.12:9000/play/a02q
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Panamericana_Televisi%C3%B3n_2021.svg" group-title="Nacionales", PANAMERICANA HD
 http://209.45.81.84:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://es.wikipedia.org/wiki/Global_Televisi%C3%B3n#/media/Archivo:Global_logo_2019.png" group-title="Nacionales", GLOBAL HD
-http://179.63.6.12:9000/play/a00f
-
-#EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Cartoon_Network_HD_-_2010.svg" group-title="Nacionales", CARTOON NETWORK HD
-http://161.132.112.34:9000/play/a081
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Disney_Channel_%282010%29.svg" group-title="Nacionales", DISNEY HD
-http://190.108.89.228:8000/play/a0dt/index.m3u8
-
+#EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacionales", GLOBAL HD
+http://38.252.213.12:8000/play/a02d
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
 http://179.51.161.253:9009/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Deportes",ESPN SD MX
+http://45.189.62.33:8002/play/a092/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN HD.mx" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Deportes",ESPN HD MX
+http://45.177.179.227:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD
 http://45.173.75.4:2061/play/a06l
@@ -40,15 +39,29 @@ http://191.97.61.32:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
 http://200.39.57.254:8008/play/a07k/index.m3u8
 
+#EXTINF:-1 tvg-id="FOX Sports.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/FOX_Sports.svg" group-title="Deportes",FOX SPORTS HD
+http://45.170.40.11:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX Sports 2.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg" group-title="Deportes",FOX SPORTS 2 HD
+http://45.170.40.11:8000/play/a054/index.m3u8
+
 #EXTINF:-1 tvg-id="L1.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="Deportes",L1 HD
 http://217.26.190.76:8888/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-id="L1 MAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 MAX HD
 http://38.43.132.201:8000/play/a0cz/index.m3u8
 
+#EXTINF:-1 tvg-id="L1 MAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 MAX 2 HD
+http://45.173.201.51:4000/play/a0o1/index.m3u8
+
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
 http://138.204.12.14:40000/play/a0al/index.m3u8
 
+#EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/RAIITALIA2017.jpg" group-title="Internacional",RAI ITALIA SD
+http://45.170.40.11:8000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/RAIITALIA2017.jpg" group-title="Internacional",RAI ITALIA HD
+http://200.105.196.70:8000/play/a0yw
 
 
 
