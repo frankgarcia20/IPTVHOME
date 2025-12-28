@@ -63,6 +63,10 @@ http://45.170.40.11:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/RAIITALIA2017.jpg" group-title="Internacional",RAI ITALIA HD
 http://200.105.196.70:8000/play/a0yw
 
+#EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="Internacional",RAI 1 ITALIA HD
+http://176.65.146.189:7001/play/a081/index.m3u8
+
+
 
 
 
