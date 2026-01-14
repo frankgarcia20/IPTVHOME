@@ -18,12 +18,6 @@ http://38.252.213.12:8000/play/a02d
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
 http://179.51.161.253:9009/play/a0ag/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Deportes",ESPN SD MX
-http://45.189.62.33:8002/play/a092/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN HD.mx" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="Deportes",ESPN HD MX
-http://45.177.179.227:8000/play/a01v/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD
 http://45.173.75.4:2061/play/a06l
 
@@ -65,6 +59,9 @@ http://200.105.196.70:8000/play/a0yw
 
 #EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="Internacional",RAI 1 ITALIA HD
 http://176.65.146.189:7001/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional",TUDN HD MX
+http://179.63.191.34:8090/play/a032/index.m3u8
 
 
 
