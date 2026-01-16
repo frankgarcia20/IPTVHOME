@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/mexico1.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru2.xml,https://www.open-epg.com/files/peru3.xml"
 
 #EXTINF:-1 tvg-id="LATINA HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg" group-title="Nacionales", LATINA HD
-http://179.63.6.12:9000/play/a00f
+http://38.252.213.12:8000/play/a00f
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
 http://179.63.6.12:9000/play/a007
