@@ -4,16 +4,22 @@
 http://38.252.213.12:8000/play/a00f
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
-http://179.63.6.12:9000/play/a007
+http://38.187.3.110:8000/play/a07t/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV HD
-http://179.63.6.12:9000/play/a02q
+http://38.187.3.110:8000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Panamericana_Televisi%C3%B3n_2021.svg" group-title="Nacionales", PANAMERICANA HD
 http://209.45.81.84:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="GLOBAL TV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacionales", GLOBAL HD
 http://38.252.213.12:8000/play/a02d
+
+#EXTINF:-1 tvg-id="Dsports HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports HD
+http://38.43.133.242:8000/play/a0cw/index.m3u8
+
+#EXTINF:-1 tvg-id="Dsports HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports (Sup) HD
+http://190.117.20.39:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
 http://179.51.161.253:9009/play/a0ag/index.m3u8
