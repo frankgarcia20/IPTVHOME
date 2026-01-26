@@ -27,6 +27,9 @@ http://179.51.161.253:9009/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD
 http://45.173.75.4:2061/play/a06l
 
+#EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg" group-title="Deportes",ESPN 2 HD 2
+http://179.63.6.12:9000/play/a05z
+
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg" group-title="Deportes",ESPN 3 HD
 http://209.45.81.84:8000/play/a01b
 
