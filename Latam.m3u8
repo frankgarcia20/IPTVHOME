@@ -22,7 +22,7 @@ http://38.43.133.242:8000/play/a0cw/index.m3u8
 http://190.117.20.39:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD
-http://179.51.161.253:9009/play/a0ag/index.m3u8
+http://179.63.6.15:8002/play/a02r
 
 #EXTINF:-1 tvg-id="ESPN HD.pe" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Deportes",ESPN HD 2
 http://190.117.20.39:8000/play/a05v/index.m3u8
