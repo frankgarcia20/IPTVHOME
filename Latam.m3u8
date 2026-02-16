@@ -55,7 +55,7 @@ http://45.170.40.11:8000/play/a054/index.m3u8
 http://217.26.190.76:8888/play/a0bt/index.m3u8
 
 #EXTINF:-1 tvg-id="L1 MAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 MAX HD
-http://45.173.201.51:4000/play/a07f/index.m3u8
+http://38.43.132.201:8000/play/a0p5/index.m3u8
 
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
 http://138.204.12.14:40000/play/a0al/index.m3u8
