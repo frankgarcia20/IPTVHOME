@@ -63,6 +63,9 @@ http://176.65.146.189:7001/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional",TUDN HD MX
 http://179.63.191.34:8090/play/a032/index.m3u8
 
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/30/1/conmebol-libertadores-logo-png_seeklogo-302809.png" group-title="Internacional",Copa Libertadores
+https://8c51.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8
+
 
 
 
