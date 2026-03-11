@@ -51,20 +51,12 @@ http://38.43.132.201:8000/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
 http://138.204.12.14:40000/play/a0al/index.m3u8
 
-#EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/RAIITALIA2017.jpg" group-title="Internacional",RAI ITALIA SD
-http://45.170.40.11:8000/play/a041/index.m3u8
-
-#EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/RAIITALIA2017.jpg" group-title="Internacional",RAI ITALIA HD
-http://200.105.196.70:8000/play/a0yw
-
 #EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="Internacional",RAI 1 ITALIA HD
 http://176.65.146.189:7001/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional",TUDN HD MX
-http://179.63.191.34:8090/play/a032/index.m3u8
+https://14c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=38.250.150.61&token=f77e6811959e6155dd26cdf31eb346093c08f8b3-21-1773317454-1773263454
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/30/1/conmebol-libertadores-logo-png_seeklogo-302809.png" group-title="Internacional",Copa Libertadores
-https://8c51.crackstreamslivehd.com/espn2/tracks-v1a1/mono.m3u8
 
 
 
