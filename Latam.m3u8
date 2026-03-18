@@ -48,8 +48,6 @@ http://200.39.57.254:8008/play/a07k/index.m3u8
 #EXTINF:-1 tvg-id="L1 MAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 MAX HD
 http://38.43.132.201:8000/play/a0p5/index.m3u8
 
-#EXTINF:-1 tvg-id="L1 MAX.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 MAX 2 HD
-http://38.43.132.201:8000/play/a0p5/index.m3u8
 
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
 http://138.204.12.14:40000/play/a0al/index.m3u8
@@ -58,7 +56,6 @@ http://138.204.12.14:40000/play/a0al/index.m3u8
 http://176.65.146.189:7001/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional",TUDN HD MX
-https://14c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=38.250.150.61&token=f77e6811959e6155dd26cdf31eb346093c08f8b3-21-1773317454-1773263454
 
 
 
