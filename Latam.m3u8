@@ -4,7 +4,7 @@
 http://38.252.213.12:8000/play/a00f
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
-http://38.187.3.110:8000/play/a07t/index.m3u8
+http://181.65.191.173:8060/play/a0bq
 
 #EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV HD
 http://38.187.3.110:8000/play/a064/index.m3u8
