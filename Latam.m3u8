@@ -61,8 +61,8 @@ http://138.204.12.14:40000/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="Internacional",RAI 1 ITALIA HD
 http://176.65.146.189:7001/play/a081/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional",TUDN HD MX
-https://doc1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=38.250.150.50&token=92f5e0e1a65ce9122a49fc43246e2b8654729106-14-1773920616-1773866616
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional", FIFA
+https://24a1.streameasthd.net/disney15/tracks-v1a1/mono.m3u8?ip=38.250.150.32&token=7aa8f692a3080b6c66a2cfc03d8fc3619fa57278-98-1774600672-1774546672
 
 
 
