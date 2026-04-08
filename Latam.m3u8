@@ -4,10 +4,10 @@
 http://38.252.213.12:8000/play/a00f
 
 #EXTINF:-1 tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/640px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Nacionales", America TV HD
-http://181.65.191.173:8060/play/a0bq
+http://38.137.192.250:8000/play/a02d
 
 #EXTINF:-1 tvg-id="ATV HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Nacionales", ATV HD
-http://38.187.3.110:8000/play/a064/index.m3u8
+http://179.63.6.12:9000/play/a02q
 
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Panamericana_Televisi%C3%B3n_2021.svg" group-title="Nacionales", PANAMERICANA HD
 http://8.243.126.131:8000/play/a01r/index.m3u8
@@ -16,7 +16,7 @@ http://8.243.126.131:8000/play/a01r/index.m3u8
 http://38.252.213.12:8000/play/a02d
 
 #EXTINF:-1 tvg-id="Dsports HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports HD
-http://38.43.133.242:8000/play/a0cw/index.m3u8
+http://179.63.6.12:9000/play/a01k
 
 #EXTINF:-1 tvg-id="Dsports HD.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports (Sup) HD
 http://190.117.20.39:8000/play/a08d/index.m3u8
@@ -45,18 +45,14 @@ http://191.97.61.32:8000/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
 http://200.39.57.254:8008/play/a07k/index.m3u8
 
-
 #EXTINF:-1 tvg-id="L1 Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 Max  HD
-http://179.1.145.73:8040/play/a03w/index.m3u8
+http://38.137.192.250:8000/play/a0cf
 
 #EXTINF:-1 tvg-id="L1 Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 Max 2 HD
-http://181.65.191.173:8060/play/a093
-
-#EXTINF:-1 tvg-id="L1 Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 Max 3 HD
-http://181.65.191.173:8060/play/a0ge
+http://45.173.201.51:4000/play/a0kk/index.m3u8
 
 #EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Movistar_Deportes.svg" group-title="Deportes",M DEPORTES HD
-http://138.204.12.14:40000/play/a0al/index.m3u8
+http://190.117.20.39:8000/play/a0f0/index.m3u8
 
 #EXTINF:-1 tvg-id="RAI.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Rai_1_-_Logo_2016.svg" group-title="Internacional",RAI 1 ITALIA HD
 http://176.65.146.189:7001/play/a081/index.m3u8
