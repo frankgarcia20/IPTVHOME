@@ -58,6 +58,7 @@ http://190.117.20.39:8000/play/a0f0/index.m3u8
 http://176.65.146.189:7001/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional", FIFA
-https://8c51.streameasthd.net/global/tudn_usa/index.m3u8?token=bc1aa5503d3db1509b02a8b2e2a114ef27b5239c-87-1777561396-1777507396&ip=38.250.150.38
+https://8c51.streameasthd.net/disney10/tracks-v1a1/mono.m3u8?ip=38.250.150.38&token=5c712152774405e3035db1b550837390b93a0561-5f-1777561582-1777507582
+
 
 
