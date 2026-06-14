@@ -61,7 +61,8 @@ http://176.65.146.189:7001/play/a081/index.m3u8
 http://201.190.41.246:8822/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional", F1
-https://st.streamtpday1.xyz/disney1/tracks-v1a1/mono.m3u8?ip=38.250.150.43&token=c5a34af9e67a057a2f38b6fbedc53d2f3a497200-99-1781487453-1781433453
+https://sa.streamtpday1.xyz/disney1/index.m3u8?token=ed4aba758b2f9bacd7283ffb5eefa409776ffb60-59-1781487563-1781433563&ip=38.250.150.43
+
 
 
 
