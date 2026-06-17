@@ -58,7 +58,8 @@ http://190.117.20.39:8000/play/a0f0/index.m3u8
 http://176.65.146.189:7001/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional", FIFA
-https://sa.streamtpday1.xyz/disney1/tracks-v1a1/mono.m3u8?ip=38.250.150.43&token=ed4aba758b2f9bacd7283ffb5eefa409776ffb60-59-1781487563-1781433563
+https://sa.streamtpday1.xyz/tycsports/tracks-v1a1/mono.m3u8?ip=38.250.150.43&token=f9c760aace036dfcc261c646d701516395db0cf7-20-1781784315-1781730315
+
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://images.seeklogo.com/logo-png/38/1/tudn-negativo-logo-png_seeklogo-387424.png" group-title="Internacional", F1
 https://sa.streamtpday1.xyz/disney1/index.m3u8?token=ed4aba758b2f9bacd7283ffb5eefa409776ffb60-59-1781487563-1781433563&ip=38.250.150.43
