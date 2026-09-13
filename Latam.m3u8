@@ -34,16 +34,16 @@ http://45.173.75.4:2061/play/a06l
 http://179.63.6.12:9000/play/a05z
 
 #EXTINF:-1 tvg-id="ESPN 3 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/ESPN3.svg" group-title="Deportes",ESPN 3 HD
-http://154.12.107.98:8000/play/a09x
+http://209.61.12.77:9000/play/a08x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/ESPN_4.svg" group-title="Deportes",ESPN 4 HD
-http://181.119.86.1:8000/play/a03x
+http://209.61.12.77:9000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/ESPN_5.svg" group-title="Deportes",ESPN 5 HD
-http://191.97.61.32:8000/play/a08y/index.m3u8
+http://209.61.12.77:9000/play/a08q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6 HD.pe" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_6.svg" group-title="Deportes",ESPN 6 HD
-http://200.39.57.254:8008/play/a07k/index.m3u8
+http://209.61.12.77:9000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="L1 Max.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/L1MAX-LOGO.svg" group-title="Deportes",L1 Max  HD
 http://38.137.192.250:8000/play/a0cf
